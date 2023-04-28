@@ -1,0 +1,7 @@
+PUT  http://localhost:3000/api/entities/6446ee6547e78bb32ed50029
+content-type: application/json
+
+{
+    "name":"not so new",
+    "description":"6446ee6547e78bb32ed50029"
+}

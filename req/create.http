@@ -1,0 +1,7 @@
+POST http://localhost:3000/api/entities
+content-type: application/json
+
+{
+    "name":"created by api using the same route",
+    "description":"new entity created by api"
+}
